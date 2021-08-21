@@ -6,4 +6,4 @@ port = $PORT\n\
 enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
-pipenv shell --system
+pipenv install --system
